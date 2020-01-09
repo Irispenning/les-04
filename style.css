@@ -1,0 +1,160 @@
+#main{
+    height: 800px;
+    width: 400px;
+}
+
+#header{
+    height: autopx;
+    background: lightblue
+    max-width: 900px;
+    margin-left: 550px;
+    position: :left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+}
+
+#container{
+    background: aliceblue;
+}
+
+#stap1{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap2{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap3{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap4{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap5{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap6{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap7{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap8{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap9{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#stap10{
+    max-width: 600px;
+    height: 40px;
+    background: white;
+    margin-left: 450px;
+    position: relative;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+#images{
+    max-width: 600px;
+    height: 450px;
+    margin-left: 450px;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
